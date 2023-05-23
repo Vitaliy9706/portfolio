@@ -33,8 +33,8 @@ export default function Home() {
                     duration:1,
                 }}
             } 
-            className='w-1/2 md:w-full flex flex-col justify-center items-center self-center'>
-              <Image src={threedPic} alt="Vitaliy Oleinik" className='w-full h-auto rounded-2xl lg:hidden md:inline-block md:w-full' />
+            className='w-1/2 h-[30rem] md:w-full flex flex-col justify-center items-center self-center relative sm:h-[20rem] lg:hidden md:inline-block md:w-full'>
+              <Image src={threedPic} layout="fill" objectFit='cover' objectPosition='center' alt="Vitaliy Oleinik"  />
             </motion.div>
             <div className='w-1/2 flex flex-col items-center self-center lg:w-full lg:text-center'>
               <AnimatedText text="Hello! I'm Vitaliy a web developer based in Abu Dhabi 🇦🇪" className='!text-6xl text-left  xl:!text-5xl lg:!text-center lg:!text-6xl md:!text-5xl sm:!text-3xl' />
