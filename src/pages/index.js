@@ -20,7 +20,7 @@ export default function Home() {
         <title>Vitaliy Oleinik | Web Developer in Abu Dhabi</title>
         <meta name="description" content="I am a skilled web developer based in Abu Dhabi, specializing in creating engaging and user-friendly websites. I will help you increase your sales" />
       </Head>
-
+      <TransitionEffect />
       <main className='flex items-center text-dark w-full min-h-screen dark:text-light'>
         <Layout className='pt-0 md:pt-12 sm:pt-0'>
           <div className='flex items-center justify-between w-wull lg:flex-col'>
