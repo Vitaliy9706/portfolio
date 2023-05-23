@@ -45,7 +45,7 @@ export default function Home() {
                 <Link href="/myResume.pdf" target={"_blank"} 
                 className="flex items-center bg-dark text-light p-2.5 px-6 rounded-lg text-lg dark:bg-light hover:dark:bg-dark hover:dark:text-light hover:dark:border-light dark:text-dark font-semibold hover:bg-light hover:text-dark 
                 border-solid border-2 border-transparent hover:border-dark md:p-2 md:px-4 md:text-base">
-                  Resume <LinkArrow className={"w-6 ml-1"} />
+                  Resume 
                 </Link>
                 <Link href="mailto:vitalya0602@gmail.com" className='ml-4 text-lg font-medium capitalize  text-primary underline md:text-base'>Contact</Link>
               </div>
