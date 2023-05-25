@@ -36,8 +36,8 @@ export default function PostPage({ frontmatter, content }) {
     return (
         <>
         <Head>
-            <title>Vitaliy Oleinik | Blog</title>
-            <meta name="description" content="Web developer in Abu Dhabi" />
+            <title>{frontmatter.metaTitle} | Vitaliy Oleinik</title>
+            <meta name="description" content={frontmatter.metaDesc} />
         </Head>
         <TransitionEffect />
         <main className='flex w-full flex-col items-center justify-center mb-16'>
