@@ -3,7 +3,6 @@ title: 'Web Design Services in Abu Dhabi'
 metaTitle: 'Web design services in Abu Dhabi'
 metaDesc: 'Welcome to Abu Dhabi professional web design services! My goal is to help businesses like yours build a strong online presence and differentiate themselves from their competitors.'
 shortDesc: 'Welcome to Abu Dhabi professional web design services! My goal is to help businesses like yours build a strong online presence and differentiate themselves from their competitors.'
-socialImage: 'images/articles/todoapp.png'
 date: '23/05/2023'
 tags: 
     - web design
