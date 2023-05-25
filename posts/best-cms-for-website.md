@@ -35,8 +35,8 @@ As the most popular CMS worldwide, WordPress powers millions of websites across 
 
 Best use for:
 
--Blog
--Corporate website
+- Blog
+- Corporate website
 
 For highly scalable applications like e-commerce platforms with huge traffic it is better to develop custom solutions.
 
